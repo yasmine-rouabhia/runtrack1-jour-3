@@ -1,0 +1,48 @@
+h1{
+    color:dodgerblue;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    text-shadow: -1px -1px black,1px 1px grey; 
+    }
+
+h2{
+    color: #3b87a5;
+    display: flex;
+    justify-content: center;
+    text-shadow: -1px -1px black,1px 1px grey
+    }
+        
+li{
+    color: cornflowerblue;
+    font-family:fantasy;
+    display: flex;
+    justify-content: center;
+    }
+
+.para{
+    display: flex;
+    justify-content:space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(12, 57, 102);
+    font-size: 20px;
+    }
+
+body{
+    background:url(https://www.ifolor.ch/content/dam/ifolor/inspire-gallery/FFL/ausdrucksstarke-gruppenfotos/Gruppe1.jpg.transform/q60/image.jpg?Gruppe1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+   
